@@ -80,3 +80,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Chạy dự án
 1. Chạy `npm install`
 2. Chạy `npm start`
+## Chức năng chính
+- Xem danh sách sản phẩm trong kho.
+- Tìm kiếm sản phẩm theo tên.
+- Lọc sản phẩm theo danh mục.
+- Thêm sản phẩm mới.
+- Xem chi tiết sản phẩm.
+- Cập nhật số lượng tồn kho.
+- Xóa sản phẩm.
+- Lưu dữ liệu bằng localStorage.

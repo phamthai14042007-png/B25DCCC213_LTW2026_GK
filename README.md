@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Quản lý kho hàng
+
+Ứng dụng quản lý kho hàng được xây dựng bằng React.
+
+## Công nghệ sử dụng
+- React
+- Axios
+- React Router DOM 6
+
+## Chạy dự án
+1. Chạy `npm install`
+2. Chạy `npm start`
